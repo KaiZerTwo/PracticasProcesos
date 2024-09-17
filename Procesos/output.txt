@@ -1,0 +1,30 @@
+ El volumen de la unidad C no tiene etiqueta.
+ El volumen de la unidad C no tiene etiqueta.
+ El n�mero de serie del volumen es: 2A04-4D5A
+ El n�mero de serie del volumen es: 2A04-4D5A
+
+
+ Directorio de C:\Users\9fdam09\IdeaProjects\Procesos
+ Directorio de C:\Users\9fdam09\IdeaProjects\Procesos
+
+
+13/09/2024  21:43    <DIR>          .
+13/09/2024  21:43    <DIR>          .
+13/09/2024  21:01    <DIR>          ..
+13/09/2024  21:01    <DIR>          ..
+13/09/2024  21:01               344 .gitignore
+13/09/2024  21:01               344 .gitignore
+13/09/2024  21:49    <DIR>          .idea
+13/09/2024  21:49    <DIR>          .idea
+13/09/2024  21:03    <DIR>          out
+13/09/2024  21:03    <DIR>          out
+13/09/2024  21:49                 0 output.txt
+13/09/2024  21:49                 0 output.txt
+13/09/2024  21:01               433 Procesos.iml
+13/09/2024  21:01               433 Procesos.iml
+13/09/2024  21:49    <DIR>          src
+13/09/2024  21:49    <DIR>          src
+               3 archivos            777 bytes
+               3 archivos            777 bytes
+               5 dirs  218.619.957.248 bytes libres
+               5 dirs  218.619.957.248 bytes libres
